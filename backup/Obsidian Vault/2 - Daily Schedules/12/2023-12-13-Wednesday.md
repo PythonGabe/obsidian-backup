@@ -1,0 +1,90 @@
+---
+cssclasses: 
+tags:
+  - schedule
+day: 2023-12-13
+---
+
+
+- <span class="green">6:30 AM</span>
+	- [ ] Awake
+	- [ ] Get dressed
+	- [ ] Pills
+	- [ ] Contacts
+	- [ ] Brush Teeth
+	- [ ] Fill clean water bottle
+	- [ ] Mask - 10 minutes
+	- [ ] Sad Lamp Time - 30 minutes
+	- [ ] Plan day
+- <span class="green">7:15 AM</span>
+	- [ ] Log on CW
+	- [ ] Work work
+- <span class="green">7:45 AM</span>
+	- [ ] Double check packed stuff
+- <span class="green">8:00 AM</span>
+	- [ ] Leave for airport
+	- [ ] Drop off thingy at Hogan's
+- <span class="green">8:15 AM</span>
+	- [ ] Airport
+- <span class="green">10:30 AM</span>
+	- 10:37 flight leaves for cali
+- <span class="green">10:45 AM</span>
+- <span class="green">11:00 AM</span>
+- <span class="green">11:15 AM</span>
+- <span class="green">11:30 AM</span>
+- <span class="green">11:45 AM</span>
+- <span class="green">12:00 PM</span>
+	- [ ] Make Smoothie
+	- [ ] Ice bath time
+	- [ ] Take out trash/recycling
+- <span class="green">12:15 PM</span>
+- <span class="green">12:30 PM</span>
+- <span class="green">12:45 PM</span>
+- <span class="green">1:00 PM</span>
+- <span class="green">1:15 PM</span>
+- <span class="green">1:30 PM</span>
+- <span class="green">1:45 PM</span>
+- <span class="green">2:00 PM</span>
+- <span class="green">2:15 PM</span>
+- <span class="green">2:30 PM</span>
+- <span class="green">2:45 PM</span>
+- <span class="green">3:00 PM</span>
+- <span class="green">3:15 PM</span>
+- <span class="green">3:30 PM</span>
+- <span class="green">3:45 PM</span>
+- <span class="green">4:00 PM</span>
+- <span class="green">4:15 PM</span>
+- <span class="green">4:30 PM</span>
+- <span class="green">4:45 PM</span>
+- <span class="green">5:00 PM</span>
+- <span class="green">5:15 PM</span>
+- <span class="green">5:30 PM</span>
+- <span class="green">5:45 PM</span>
+- <span class="green">6:00 PM</span>
+- <span class="green">6:15 PM</span>
+- <span class="green">6:30 PM</span>
+- <span class="green">6:45 PM</span>
+- <span class="green">7:00 PM</span>
+- <span class="green">7:15 PM</span>
+- <span class="green">7:30 PM</span>
+- <span class="green">7:45 PM</span>
+- <span class="green">8:00 PM</span>
+- <span class="green">8:15 PM</span>
+- <span class="green">8:30 PM</span>
+- <span class="green">8:45 PM</span>
+- <span class="green">9:00 PM</span>
+- <span class="green">9:15 PM</span>
+- <span class="green">9:30 PM</span>
+- <span class="green">9:45 PM</span>
+- <span class="green">10:00 PM</span>
+	- [ ] Flip or roll if GOOD BOI
+	- [[Reward Tracker and Rules]]
+	- [[Reward Lottery Qualification]]
+- <span class="green">10:15 PM</span>
+- <span class="green">10:30 PM</span>
+- <span class="green">10:45 PM</span>
+- <span class="green">11:00 PM</span>
+- <span class="green">11:15 PM</span>
+- <span class="green">11:30 PM</span>
+- <span class="green">11:45 PM</span>
+- <span class="green">12:00 AM</span>

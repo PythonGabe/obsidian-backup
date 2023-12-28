@@ -1,0 +1,2 @@
+- When I am starting to see something as annoying or a chore/inconvenience. Instead I can choose to view it as a learning opportunity and a way to get better.
+	- There is almost always something to be learned when doing a work task, whether that's how better to interact with others, new ways of coding, new ways of arch.... the list goes on.

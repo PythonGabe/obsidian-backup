@@ -1,0 +1,89 @@
+{
+  "choices": [
+    {
+      "id": "e6dc8820-5423-4c76-b05a-1789022cfbc8",
+      "name": "Automation Task",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "Tasks/Personal/Raw To-dos.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "{{VALUE:task name}} %% #automation %%"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "9aa346ae-ab4e-4ba9-9bac-44ff2bae41a4",
+      "name": "update line",
+      "type": "Macro",
+      "command": false,
+      "macroId": "e4ee125c-caf8-4eef-937a-996c1ea4d6f5"
+    },
+    {
+      "id": "17ce36ed-e2ec-46f8-a6d8-fd835413d3dd",
+      "name": "asdasdasd",
+      "type": "Macro",
+      "command": false,
+      "macroId": "e4ee125c-caf8-4eef-937a-996c1ea4d6f5"
+    }
+  ],
+  "macros": [
+    {
+      "name": "Mark as Cancelled",
+      "id": "e4ee125c-caf8-4eef-937a-996c1ea4d6f5",
+      "commands": [
+        {
+          "name": "mark-as-cancelled",
+          "type": "UserScript",
+          "id": "a93a1749-cfd6-450d-b779-416ba5814ad4",
+          "path": "Scripts/mark-as-cancelled.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "",
+  "announceUpdates": true,
+  "version": "1.6.1",
+  "disableOnlineFeatures": true,
+  "ai": {
+    "OpenAIApiKey": "",
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}

@@ -1,0 +1,93 @@
+---
+cssclasses: 
+tags:
+  - schedule
+day: 2023-12-20
+---
+^properties
+- <span class="green">8:15 AM</span>
+	- [x] Awake ✅ 2023-12-20
+	- [x] Pills ✅ 2023-12-20
+	- [x] Contacts ✅ 2023-12-20
+	- [x] Drink cup of water ✅ 2023-12-20
+	- [x] Brush teeth ✅ 2023-12-20
+	- [x] Pick out clothes ✅ 2023-12-20
+	- [x] Ice bath with post shower ✅ 2023-12-20
+	- [x] Put in 45 min teeth whitener ✅ 2023-12-20
+	- [x] Mask - 10 minutes ✅ 2023-12-20
+	- [x] Do chores or planning while mask on ✅ 2023-12-20
+	- [x] Wash face and put on Creams ✅ 2023-12-20
+	- [-] Start sad lamp time - 30 minutes
+- <span class="green">8:30 AM</span>
+	- [x] Adjust day plan ✅ 2023-12-20
+	- [x] Log on Emp and CW ✅ 2023-12-20
+- <span class="green">8:45 AM</span>
+	- [x] Wait for bike and such ✅ 2023-12-20
+- <span class="green">9:30 AM</span>
+	- [x] Start work tasks ✅ 2023-12-20
+	- [x] Standup/Planning meeting ✅ 2023-12-20
+	- [x] Work on work stuff ✅ 2023-12-20
+- <span class="green">10:30 AM</span>
+	- [x] Try and get Google Calender into outlook again. ✅ 2023-12-20
+- <span class="green">10:45 AM</span>
+	- [x] Work on EMP stuff - Dagster ✅ 2023-12-20
+- <span class="green">11:15 AM</span>
+- <span class="green">11:30 AM</span>
+	- [x] End of year admin meeting ✅ 2023-12-20
+	- [x] Bonus Baby ✅ 2023-12-20
+	- [x] Promotion Baby ✅ 2023-12-20
+- <span class="green">12:00 PM</span>
+	- [ ] Scroll and such
+- <span class="green">1:00 PM</span>
+	- [ ] Get any extra trash from garage
+	- [ ] Take out trash/recycling
+	- [ ] Refresh Cat water
+	- [ ] Christmas Cards
+	- [ ] Go outside for at least 5 minutes... every day!!! Take Hannibal outside if he wants to come
+	- [ ] Standup meeting
+- <span class="green">1:15 PM</span>
+	- [x] Plan a bit more for the day ✅ 2023-12-20
+- <span class="green">1:25 PM</span>
+	- [x] Sent Emp website email. ✅ 2023-12-20
+- <span class="green">1:30 PM</span>
+	- [x] Cluster Pools planning prep ✅ 2023-12-20
+	- [x] Called with kate for like 20 ✅ 2023-12-20
+- <span class="green">3:21 PM</span>
+	- [x] Planning ✅ 2023-12-20
+	- [x] Hannibal for a walk ✅ 2023-12-20
+	- [x] Put charger in bedroom ✅ 2023-12-20
+- <span class="green">3:45 PM</span>
+	- [x] Wrap Kate Christmas Gifts ✅ 2023-12-20
+- <span class="green">4:00 PM</span>
+	- [x] Cluster Pools Meeting ✅ 2023-12-20
+- <span class="green">4:30 PM</span>
+	- [x] Start Car ✅ 2023-12-20
+- <span class="green">4:45 PM</span>
+	- [x] Put Vape in Basement vanity ✅ 2023-12-20
+	- [x] Pack: ✅ 2023-12-20
+		- [x] Kate Christmas Presents ✅ 2023-12-20
+		- [x] Measuring tape ✅ 2023-12-20
+		- [x] Laptop for generating Card stickers ✅ 2023-12-20
+		- [x] Tools for toilet install ✅ 2023-12-20
+	- [x] leave for Climbing ✅ 2023-12-20
+- <span class="green">5:00 PM</span>
+	- [x] Climb ✅ 2023-12-20
+- <span class="green">6:00 PM</span>
+	- [x] Leave for Kates if not yet ✅ 2023-12-20
+- <span class="green">6:15 PM</span>
+	- [x] Order food and Hangout with Kate ✅ 2023-12-20
+- <span class="green">8:30 PM</span>
+	- [x] Leave Kate's for home ✅ 2023-12-20
+- <span class="green">9:00 PM</span>
+	- [x] Relaxed ✅ 2023-12-20
+- <span class="green">10:00 PM</span>
+	- [x] Bedtime Pill ✅ 2023-12-20
+	- [-] Flip or roll if GOOD BOI - forgot to do this - sad
+	- [[Reward Tracker and Rules]]
+	- [[Reward Lottery Qualification]]
+	- [-] Goals Check
+- <span class="green">10:15 PM</span>
+	- [-] Wash Face and put on cream
+	- [-] Plan tomorrow
+- <span class="green">11:35 PM</span>
+	- [x] Get in bed ✅ 2023-12-21

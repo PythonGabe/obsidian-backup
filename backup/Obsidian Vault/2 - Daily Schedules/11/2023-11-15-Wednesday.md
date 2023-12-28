@@ -1,0 +1,69 @@
+---
+cssclasses: 
+tags:
+  - schedule
+day: 2023-11-15
+---
+
+- <span class="green">6:30 AM</span>
+	- [x] Awake ✅ 2023-11-15
+	- [x] Get dressed ✅ 2023-11-15
+	- [x] Pills ✅ 2023-11-15
+	- [x] Contacts ✅ 2023-11-15
+	- [x] Brush Teeth ✅ 2023-11-15
+	- [x] Fill clean water bottle ✅ 2023-11-15
+- <span class="green">6:45 AM</span>
+	- [x] Sad Lamp Time - 30 minutes ✅ 2023-11-15
+	- [x] Plan day ✅ 2023-11-15
+	- [x] Play with new Key board some more ✅ 2023-11-15
+- <span class="green">7:15 AM</span>
+	- [x] Log on Emp and CW ✅ 2023-11-15
+	- [x] Research Keyboards more lol ✅ 2023-11-15
+- <span class="green">8:00 AM</span>
+	- [x] Work ✅ 2023-11-15
+- <span class="green">8:15 AM</span>
+	- [x] Take Hannibal outside for a sec ✅ 2023-11-15
+- <span class="green">8:30 AM</span>
+	- [x] Corewell Messages ✅ 2023-11-15
+- <span class="green">8:53 AM</span>
+	- [x] AHHHH nothing really ✅ 2023-11-15
+- <span class="green">9:00 AM</span>
+	- [x] Work Cluster Pools ✅ 2023-11-15
+- <span class="green">10:35 AM</span>
+	- [x] Coffee Break ✅ 2023-11-15
+- <span class="green">11:15 AM</span>
+	- [x] Work ✅ 2023-11-15
+- <span class="green">12:05 AM</span>
+	- [x] Looked at Phone Stuff ✅ 2023-11-15
+- <span class="green">12:20 AM</span>
+	- [x] Work ✅ 2023-11-15
+- <span class="green">12:50 AM</span>
+	- [x] Home Depot Run ✅ 2023-11-15
+	- [x] Make Smoothie ✅ 2023-11-15
+	- [x] Ice bath time ✅ 2023-11-15
+- <span class="green">1:56 PM</span>
+	- [x] Work - s3 I hater her ✅ 2023-11-15
+- <span class="green">3:15 PM</span>
+	- [x] Work - cluster pools  ✅ 2023-11-15
+- <span class="green">3:30 PM</span>
+	- [x] Work - cluster pools sync ✅ 2023-11-15
+- <span class="green">4:45 PM</span>
+	- [x] Leave climbing ✅ 2023-11-15
+- <span class="green">5:00 PM</span>
+	- [x] Climb ✅ 2023-11-15
+- <span class="green">5:45 PM</span>
+	- [x] Leave for Kates ✅ 2023-11-15
+- <span class="green">6:00 PM</span>
+	- [x] Hang out with Kate? ✅ 2023-11-15
+- <span class="green">9:00 PM</span>
+	- [x] Go Home ✅ 2023-11-15
+- <span class="green">9:15 PM</span>
+	- [x] Whatever you feel like buddy :) ✅ 2023-11-15
+	- [x] Mostly Doom scrolling and hindge :) ✅ 2023-11-15
+- <span class="green">10:00 PM</span>
+	- [-] Flip a coin if good boi - tails!!!!
+- <span class="green">10:45 PM</span>
+	- [ ] Plan tomorrow
+	- [ ] Clean up desk
+- <span class="green">11:15 PM</span>
+	- [ ] Get in bed if not 

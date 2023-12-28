@@ -1,0 +1,6 @@
+- I want to bring joy to those around me and do things joyfully
+	- To me this means finding ways to change my perspective on things like work, studying, and chores
+		- I want to work Joyfully
+		- I want to do chores Joyfully
+		- I want to Live Joyfully
+		- This is a mindset which I can cultivate

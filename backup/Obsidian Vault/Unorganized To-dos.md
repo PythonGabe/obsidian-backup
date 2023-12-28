@@ -1,0 +1,8 @@
+- [ ] look into keyboard shortcuts or something else for kvm profiles - so i can swap easily one screen.
+- [ ] Look into getting 4 screens for work
+	- [ ] 1 for job one messaging
+	- [ ] 1 for job two messaging
+	- [ ] two for working session
+- [ ] Look into rs232 for the kvm - https://www.amazon.com/gp/product/B0BZQ1F9SR/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
+- [ ] Macro for cancelling tasks
+- [ ] Add terra firm key to wallet and create something to pop it up when I get there.

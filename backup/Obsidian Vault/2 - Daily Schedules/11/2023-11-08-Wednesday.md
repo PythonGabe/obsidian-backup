@@ -1,0 +1,79 @@
+---
+cssclasses: 
+tags:
+  - schedule
+day: 2023-11-08
+---
+
+- <span class="green">9:15 AM</span>
+	- [x] Awake ✅ 2023-11-08
+	- [x] Get dressed ✅ 2023-11-08
+	- [x] Pills ✅ 2023-11-08
+	- [x] Contacts ✅ 2023-11-08
+	- [x] Fill clean water bottle ✅ 2023-11-08
+	- [x] Logon to laptops ✅ 2023-11-08
+- <span class="green">9:30 AM</span>
+	- [x] Corewell standup ✅ 2023-11-08
+- <span class="green">10:00 AM</span>
+	- [x] Emp Work ✅ 2023-11-08
+- <span class="green">11:45 AM</span>
+	- [x] Coffee ✅ 2023-11-08
+- <span class="green">12:00 PM</span>
+	- [x] EMP Work ✅ 2023-11-08
+- <span class="green">2:45 PM</span>
+	- [x] Break ✅ 2023-11-08
+- <span class="green">3:15 PM</span>
+	- [x] Planning Day ✅ 2023-11-08
+- <span class="green">5:15 PM</span>
+	- [x] Brush Teeth ✅ 2023-11-08
+	- [x] Fill coffee Thingers up ✅ 2023-11-08
+	- [x] Start Laundry Load ✅ 2023-11-08
+	- [x] Ice bath time ✅ 2023-11-08
+	- [x] Check Cat water ✅ 2023-11-08
+	- [x] Tidy up office and kitchen ✅ 2023-11-08
+	- [x] Weekly Goals make ✅ 2023-11-08
+	- [x] Shower ✅ 2023-11-08
+- <span class="green">6:15 PM</span>
+	- [x] Work ✅ 2023-11-08
+- <span class="green">6:30 PM</span>
+	- [x] Swap Laundry ✅ 2023-11-08
+	- [x] Christmas connected ✅ 2023-11-08
+- <span class="green">6:45 PM</span>
+	- [x] Work ✅ 2023-11-08
+- <span class="green">7:00 PM</span>
+	- [x] Message Discord group ✅ 2023-11-08
+	- [x] Time off Corewell notice. ✅ 2023-11-08
+- <span class="green">7:15 PM</span>
+	- [x] Work ✅ 2023-11-08
+- <span class="green">7:30 PM</span>
+	- [ ] Setup New Phone
+	- [ ] Member Portal Healthy Lifestyles
+- <span class="green">7:45 PM</span>
+	- [ ] Work
+- <span class="green">8:00 PM</span>
+	- [ ] Whatever
+- <span class="green">8:15 PM</span>
+	- [ ] Work
+- <span class="green">8:30 PM</span>
+	- [ ] Whatever
+- <span class="green">8:45 PM</span>
+	- [ ] Work
+- <span class="green">9:00 PM</span>
+	- [ ] Whatever
+- <span class="green">9:15 PM</span>
+	- [ ] Work
+- <span class="green">9:30 PM</span>
+	- [ ] Whatever
+- <span class="green">9:45 PM</span>
+	- [ ] Work
+- <span class="green">10:00 PM</span>
+	- [ ] Take Pill
+	- [ ] Flip a coin if good boi
+- <span class="green">10:15 PM</span>
+	- [ ] Work
+- <span class="green">10:30 PM</span>
+	- [ ] Whatever
+- <span class="green">10:45 PM</span>
+	- [ ] Get in bed
+- <span class="green">11:00 PM</span>
+	- [ ] SLEEEP MOTHER FUCKER

@@ -1,0 +1,3 @@
+- [x] Sand and re-seal ice-bath #dnp ⏳ 2023-10-16 ✅ 2023-10-22
+- [x] Order mat for ice-bath #dnp ⏳ 2023-10-16 ✅ 2023-10-16
+- [x] Hook up and fill ice bath #dnp ⏳ 2023-10-18 ✅ 2023-10-25

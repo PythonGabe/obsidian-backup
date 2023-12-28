@@ -1,0 +1,88 @@
+---
+cssclass: daily-note
+---
+### - Weekly Goals
+```tasks
+not done
+(folder includes Goals/2023/09) AND (filename regex matches /17 to 23/)
+group by heading reverse
+```
+## Goals
+
+#### - Completed
+```tasks
+done
+(folder includes Daily Notes) AND (heading regex matches /Goals/) AND (done on 2023-09-20)
+```
+## To-dos
+- [x] Check Cat Water ✅ 2023-09-20
+- [ ] Empty Closet
+- [ ] Separate stuff in closet
+- [ ] Designate spaces for things in closet
+- [ ] Put them away
+- [ ] Change Consumers Energy to Bank Account
+- [ ] Trim Aryas Nails
+- [ ] Setup Reminder to trim nails every other Sunday in here or google tasks? 
+- [x] Take out kitchen trash ✅ 2023-09-18
+- [ ] Turn off fn v or switch to ctrl shift s
+- [ ] Make the catio window flap piece
+
+#### - Scheduled
+```tasks
+not done
+(((folder includes Daily Notes) AND (heading regex matches /To-dos/)) OR (tag includes dnp)) AND (scheduled on 2023-09-20))
+sort by priority
+```
+#### - Overdue
+```tasks
+not done
+(((folder includes Daily Notes) AND (heading regex matches /To-dos/) AND (((created before 2023-09-20) AND (no scheduled date)) OR (scheduled before 2023-09-20))) OR ((tag includes dnp) AND (scheduled before 2023-09-20)))
+sort by priority
+```
+#### - Completed
+```tasks
+done
+((folder includes Daily Notes) AND (heading regex matches /To-dos/)) OR (tag includes dnp)
+done on 2023-09-20
+```
+## Work
+### Corewell
+#### - Scheduled
+```tasks
+not done
+(((folder includes Daily Notes) AND (heading regex matches /Corewell/)) OR (tag includes dnc)) AND (scheduled on 2023-09-20))
+sort by priority
+```
+#### - Overdue
+```tasks
+not done
+(((folder includes Daily Notes) AND (heading regex matches /Corewell/) AND (((created before 2023-09-20) AND (no scheduled date)) OR (scheduled before 2023-09-20))) OR ((tag includes dnc) AND (scheduled before 2023-09-20)))
+sort by priority
+```
+#### - Completed
+```tasks
+done
+((folder includes Daily Notes) AND (heading regex matches /Corewell/)) OR (tag includes dnc)
+done on 2023-09-20
+```
+### Empirico
+
+#### - Scheduled
+```tasks
+not done
+(((folder includes Daily Notes) AND (heading regex matches /Empirico/)) OR (tag includes dne)) AND (scheduled on 2023-09-20))
+sort by priority
+```
+#### - Overdue
+```tasks
+not done
+(((folder includes Daily Notes) AND (heading regex matches /Empirico/) AND (((created before 2023-09-20) AND (no scheduled date)) OR (scheduled before 2023-09-20))) OR ((tag includes dne) AND (scheduled before 2023-09-20)))
+sort by priority
+```
+#### - Completed
+```tasks
+done
+((folder includes Daily Notes) AND (heading regex matches /Empirico/)) OR (tag includes dne)
+done on 2023-09-20
+```
+

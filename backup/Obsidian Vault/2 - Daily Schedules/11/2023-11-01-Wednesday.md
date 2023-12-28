@@ -1,0 +1,44 @@
+---
+cssclasses: 
+tags:
+  - schedule
+day: 2023-11-01
+---
+
+- <span class="green">5:45 AM</span>
+	- [x] Awake ✅ 2023-11-01
+	- [x] Get dressed ✅ 2023-11-01
+	- [x] Pills ✅ 2023-11-01
+	- [x] Contacts ✅ 2023-11-01
+	- [x] Brush Teeth ✅ 2023-11-01
+	- [x] Fill clean water bottle ✅ 2023-11-01
+	- [x] Tidy up office and kitchen ✅ 2023-11-01
+- <span class="green">6:15 AM</span>
+	- [x] Corewell ✅ 2023-11-01
+- <span class="green">7:00 AM</span>
+	- [x] Logon to laptops ✅ 2023-11-01
+	- [x] Ice bath time ✅ 2023-11-01
+- <span class="green">7:30 AM</span>
+	- [x] Start work tasks ✅ 2023-11-01
+- <span class="green">7:45 AM</span>
+- <span class="green">8:00 AM</span>
+	- [x] Take Hannibal outside for a sec ✅ 2023-11-01
+- <span class="green">8:15 PM</span>
+- <span class="green">8:30 PM</span>
+- <span class="green">8:45 PM</span>
+- <span class="green">9:00 PM</span>
+- <span class="green">9:15 PM</span>
+- <span class="green">9:30 PM</span>
+- <span class="green">9:45 PM</span>
+- <span class="green">10:00 PM</span>
+- <span class="green">10:15 PM</span>
+- <span class="green">10:30 PM</span>
+- <span class="green">10:45 PM</span>
+- <span class="green">11:00 PM</span>
+	- [x] Flip a coin if good boi - tails ✅ 2023-11-01
+	- [x] Took pill bois ✅ 2023-11-01
+	- [x] Plan tomorrow ✅ 2023-11-01
+- <span class="green">11:15 PM</span>
+- <span class="green">11:30 PM</span>
+- <span class="green">11:45 PM</span>
+- <span class="green">12:00 AM</span>

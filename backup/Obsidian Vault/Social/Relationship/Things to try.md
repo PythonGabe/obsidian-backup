@@ -1,0 +1,3 @@
+- [ ] Date night alternating?
+- [ ] Weekend Touchbase?
+- [ ] Couple's therapy?

@@ -1,0 +1,20 @@
+---
+cssclasses:
+---
+- 8:25
+	- [x] Tape up the freezer a bit ✅ 2023-09-13
+- 8:35
+	- [x] EMP Stage ✅ 2023-09-13
+- 8:50
+	- [-] Tape up freezer a bit
+- 9:00
+	- [x] EMP Stage ✅ 2023-09-13
+- 9:15
+	- [x] coffee ✅ 2023-09-13
+- 2:20
+	- [x] Swap cat water ✅ 2023-09-13
+	- [x] Fill Cat water ✅ 2023-09-13
+	- [x] Plan until 3pm ✅ 2023-09-13
+- 3:45
+	- [ ] EMP Stage
+	- [ ] Cluster Pools Repo

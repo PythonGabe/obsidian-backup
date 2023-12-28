@@ -1,0 +1,70 @@
+- 7:30
+	- Prep Schedule
+	- Add Remote Visit to work schedules
+	- Logon to laptops
+- 7:45
+	- Emp
+- 8:00
+	- Espresso
+	- Laundry Start Sheets
+- 8:10
+	- Emp
+- 8:35
+	- Outside stuff
+- 8:50
+	- Emp Stage
+- 9:05
+	- Figure out return thingy
+	- How to clean litter robot sensors - https://www.google.com/search?q=how+to+clean+litter+robot+sensors&rlz=1C1GCEA_enUS975US975&oq=How+to+clean+litter+robot+sensors&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyCAgBEAAYFhgeMgoIAhAAGIYDGIoFMgoIAxAAGIYDGIoF0gEINTM1NmowajSoAgCwAgA&sourceid=chrome&ie=UTF-8#kpvalbx=_I3r4ZK2nAtLDkPIP8oKRgAg_39
+	- Shower
+	- Get dressed
+- 9:15
+	- Emp Stage
+- 9:30
+	- Meeting Corewell
+	- Work on Emp while meeting
+- 10:05
+	- Sign off work stuff for virtual visit
+- 10:15
+	- Virtual Visit
+	- Chill
+	- Swap laundry
+- 11:00
+	- Emp Cluster
+- 11:30
+	- Emp Stage
+- 11:50
+	- Lunch make
+	- Return Package
+- 2:20
+	- Make the rest of the days schedule
+	- Take Sausages out of freezer and into fridge
+- 3:45
+	- Call the Oral Surgeon
+	- Emp Stage
+- 4:50
+	- Wrap up both work spaces and quick writeup on next steps for each
+- 5:00
+	- Get that bag ready for terrafirma
+Left overs
+- 15
+	- New Role CloudFormation/CDK
+- 15
+	- New Role CloudFormation/CDK
+- 15
+	- New Role CloudFormation/CDK
+- Other Stuff
+	- Laundry
+	- Find a Tool for modeling DIY stuff
+	- Cash Check Deltal Dental
+	- Refresh Budgeting App
+	- Go outside - touch grass
+	- Pay Car insurance
+	- Wipe down Ceiling Fan
+	- Vacuum Office
+	- Prep Cleaning lady
+	- Try and Setup Copilot for obsidian
+- 15
+	- Emp Stage
+- 15
+	- Emp Cluster

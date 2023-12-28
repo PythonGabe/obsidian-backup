@@ -1,0 +1,74 @@
+---
+cssclasses: 
+tags:
+  - schedule
+day: 2023-11-29
+---
+
+
+- <span class="green">6:30 AM</span>
+	- [x] Awake ✅ 2023-11-29
+	- [x] Get dressed ✅ 2023-11-29
+	- [x] Pills ✅ 2023-11-29
+	- [x] Contacts ✅ 2023-11-29
+	- [x] Brush Teeth ✅ 2023-11-29
+	- [x] Plan day ✅ 2023-11-29
+	- [x] Sad Lamp Time - 30 minutes ✅ 2023-11-29
+- <span class="green">7:00 AM</span>
+	- [x] Remove Modafinil from tomorrow pills ✅ 2023-11-29
+	- [x] Log on Emp and CW ✅ 2023-11-29
+	- [x] Start work tasks ✅ 2023-11-29
+- <span class="green">7:45 AM</span>
+	- [ ] Work on cords
+- <span class="green">8:00 AM</span>
+	- [ ] Work
+- <span class="green">8:45 AM</span>
+	- [ ] Chores
+- <span class="green">9:00 AM</span>
+	- [ ] Coffee
+	- [ ] Take Hannibal outside for a sec
+	- [ ] Work
+	- [ ] Standup
+- <span class="green">9:45 AM</span>
+	- [ ] Chores
+- <span class="green">10:00 AM</span>
+- <span class="green">10:45 AM</span>
+	- [ ] Chores
+- <span class="green">11:00 AM</span>
+	- [ ] Make Smoothie
+	- [ ] Ice bath time
+	- [ ] Take out trash/recycling
+	- [ ] Work
+- <span class="green">11:45 AM</span>
+	- [ ] Chores
+- <span class="green">12:00 PM</span>
+	- [ ] Work
+- <span class="green">12:45 PM</span>
+	- [ ] Chores
+- <span class="green">1:00 PM</span>
+	- [ ] Work
+- <span class="green">1:45 PM</span>
+	- [ ] Chores
+- <span class="green">2:00 PM</span>
+	- [ ] Work
+- <span class="green">2:45 PM</span>
+	- [ ] Chores
+- <span class="green">3:00 PM</span>
+- <span class="green">3:45 PM</span>
+	- [ ] Chores
+- <span class="green">4:00 PM</span>
+	- [ ] Work
+- <span class="green">4:30 PM</span>
+	- [ ] Leave for climbing
+	- [ ] Climb
+- <span class="green">5:15 PM</span>
+	- [ ] Leave for home
+- <span class="green">6:00 PM</span>
+	- [ ] Meetingin
+	- [ ] Last Meal
+- <span class="green">7:00 PM</span>
+	- [ ] Relax
+- <span class="green">9:00 PM</span>
+	- [ ] Take sleep pill
+- <span class="green">10:00 PM</span>
+	- [ ] Get in bed

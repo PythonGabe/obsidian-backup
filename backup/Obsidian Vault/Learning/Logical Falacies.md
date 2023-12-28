@@ -1,0 +1,1 @@
+[https://www.pesec.no/24-most-common-logical-fallacies/](https://www.pesec.no/24-most-common-logical-fallacies/)

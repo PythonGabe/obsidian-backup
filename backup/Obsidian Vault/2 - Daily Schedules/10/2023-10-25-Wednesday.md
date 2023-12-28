@@ -1,0 +1,66 @@
+---
+cssclasses: 
+tags:
+  - schedule
+day: 2023-10-25
+---
+
+- <span class="green">9:15 AM</span>
+	- [x] Awake ✅ 2023-10-25
+	- [x] Pills ✅ 2023-10-25
+	- [x] Contacts ✅ 2023-10-25
+- <span class="green">9:30 AM</span>
+	- HMMMMM
+- <span class="green">11:45 AM</span>
+	- [x] Some basement stuff ✅ 2023-10-25
+- <span class="green">12:00 PM</span>
+	- [x] Planning ✅ 2023-10-25
+	- [x] Corewell ✅ 2023-10-25
+- <span class="green">12:15 PM</span>
+	- [x] Brush Teeth ✅ 2023-10-25
+	- [x] New Clothes ✅ 2023-10-25
+	- [x] Towel ✅ 2023-10-25
+	- [x] Hammer ✅ 2023-10-25
+	- [x] Nail ✅ 2023-10-25
+	- [x] Remove door ✅ 2023-10-25
+	- [x] Basement shower ✅ 2023-10-25
+	- [x] Ice bath ✅ 2023-10-25
+	- [x] Dressed ✅ 2023-10-25
+- <span class="green">12:30 PM</span>
+	- [x] Message emp lunch miss standup ✅ 2023-10-25
+	- [x] WORK ✅ 2023-10-25
+- <span class="green">1:00 PM</span>
+	- [x] Order ice bath accessories ✅ 2023-10-25
+	- [x] Wifi ✅ 2023-10-25
+- <span class="green">1:15 PM</span>
+	- [x] WORK ✅ 2023-10-25
+- <span class="green">1:45 PM</span>
+	- [x] Meijer order ✅ 2023-10-25
+		- [x] Coffee filters ✅ 2023-10-25
+		- [x] Soda ✅ 2023-10-25
+		- [x] Sangria? ✅ 2023-10-25
+- <span class="green">2:20 PM</span>
+	- [x] WORK ✅ 2023-10-25
+- <span class="green">3:30 PM</span>
+	- [x] Clean cat water ✅ 2023-10-25
+	- [x] More wifi ✅ 2023-10-25
+- <span class="green">4:00 PM</span>
+- <span class="green">8:25 PM</span>
+	- [ ] WORK
+- <span class="green">8:45 PM</span>
+	- [ ] Break
+- <span class="green">8:50 PM</span>
+	- [ ] WORK
+- <span class="green">9:20 PM</span>
+	- [ ] breack
+- <span class="green">9:25 PM</span>
+	- [ ] WORK
+- <span class="green">9:55 PM</span>
+	- [ ] Flip a coin if good boi
+	- [ ] brush teethers
+- <span class="green">10:00 PM</span>
+	- [ ] WORK until sleep necessary
+- <span class="green">??? PM</span>
+	- [ ] Prep tomorrow morning
+		- [ ] Climbing in AM
+	- [ ] Get in bed

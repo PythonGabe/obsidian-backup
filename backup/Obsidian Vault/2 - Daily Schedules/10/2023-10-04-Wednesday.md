@@ -1,0 +1,30 @@
+---
+cssclasses:
+---
+- 6:30
+	- [x] Awake ✅ 2023-10-04
+	- [x] Get dressed ✅ 2023-10-04
+	- [x] Pills ✅ 2023-10-04
+	- [x] Contacts ✅ 2023-10-04
+	- [x] Brush Teeth ✅ 2023-10-04
+	- [x] Tidy up office and kitchen ✅ 2023-10-04
+- 7:15
+	- [x] Logon to laptops ✅ 2023-10-04
+	- [x] Prep Roles ✅ 2023-10-04
+- 8:00
+	- [x] Coffee ✅ 2023-10-04
+- 8:15
+	- [x] Do random work tasks ✅ 2023-10-04
+	- did some adhoc tasks then got caught up in being mad at josh again.
+- 6:45
+	- [x] Get outside for a second ✅ 2023-10-04
+	- [x] Make a smoothie ✅ 2023-10-04
+- 7:00
+	- Wrote a long message to josh about feels.
+	- Need to reflex on what triggered that more.
+		- How can I better handle conversations and stay calmer.
+		- Me getting upset only escalates things.
+- 11:00
+	- [ ] get the cluster pools api running?
+	- [ ] Go to bed and wake up tomorrow refreshed :)
+	- I love you gabe

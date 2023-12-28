@@ -1,0 +1,7 @@
+- Make an advanced directive
+- Get all of my personal git and userscripts into my own private github repo
+- Car mode nfc
+	- sets to play audible/spotify or something like that?
+- Build something for bins for weather blocking
+- Laundry room cover for back of thingy's
+- Laundry room shield for cat litter

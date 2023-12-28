@@ -1,0 +1,108 @@
+---
+cssclasses: 
+tags:
+  - schedule
+day: 2023-11-22
+---
+
+- <span class="green">6:30 AM</span>
+	- [x] Awake ✅ 2023-11-22
+	- [x] Get dressed ✅ 2023-11-22
+	- [x] Pills ✅ 2023-11-22
+	- [x] Contacts ✅ 2023-11-22
+	- [x] Fill clean water bottle ✅ 2023-11-22
+- <span class="green">6:40 AM</span>
+	- [x] Sad Lamp Time - 30 minutes ✅ 2023-11-22
+	- [x] Plan day ✅ 2023-11-22
+	- [x] Look at blueprint protocol stuff ✅ 2023-11-22
+- <span class="green">7:30 AM</span>
+	- [x] Start car for warming :) ✅ 2023-11-22
+	- [x] Brush Teeth ✅ 2023-11-22
+- <span class="green">7:45 AM</span>
+	- [x] Leave for climb ✅ 2023-11-22
+- <span class="green">8:00 AM</span>
+	- [x] Climb ✅ 2023-11-22
+- <span class="green">8:30 AM</span>
+	- [x] Leave for home ✅ 2023-11-22
+- <span class="green">9:00 AM</span>
+	- [ ] Wash Sheets start
+	- [ ] Coffee
+	- [ ] Take Hannibal outside for a sec
+- <span class="green">9:15 AM</span>
+	- [ ] Log on Emp and CW
+	- [ ] Start work tasks
+- <span class="green">9:30 AM</span>
+	- [ ] Standup
+	- [ ] Work
+- <span class="green">10:00 AM</span>
+	- [ ] Workout 5: Planks
+	- [ ] Swap Sheets
+- <span class="green">10:15 AM</span>
+	- [ ] Work
+- <span class="green">10:45 AM</span>
+	- [ ] Workout 5: Crunches
+	- [ ] Break
+- <span class="green">11:00 AM</span>
+	- [ ] Work
+- <span class="green">11:30 AM</span>
+	- [ ] Workout 5: Squats
+- <span class="green">11:45 AM</span>
+	- [ ] Work
+- <span class="green">12:15 PM</span>
+	- [ ] Make Smoothie
+	- [ ] Ice bath time
+	- [ ] Fill up trash and recycling
+	- [ ] Take out trash & recycling
+- <span class="green">1:00 PM</span>
+	- [ ] Work
+- <span class="green">1:30 PM</span>
+	- [ ] Chores
+- <span class="green">1:45 PM</span>
+	- [ ] Work
+- <span class="green">2:15 PM</span>
+	- [ ] Workout 5: Bridges
+- <span class="green">2:30 PM</span>
+	- [ ] Work
+- <span class="green">3:00 PM</span>
+	- [ ] Workout 5: High knees
+- <span class="green">3:15 PM</span>
+	- [ ] Work
+- <span class="green">3:45 PM</span>
+	- [ ] Chores
+- <span class="green">4:00 PM</span>
+	- [ ] Work
+- <span class="green">4:30 PM</span>
+	- [ ] Chores
+- <span class="green">4:45 PM</span>
+	- [ ] Sign off
+	- [ ] Decide evening
+- <span class="green">5:00 PM</span>
+- <span class="green">5:15 PM</span>
+- <span class="green">5:30 PM</span>
+- <span class="green">5:45 PM</span>
+- <span class="green">6:00 PM</span>
+- <span class="green">6:15 PM</span>
+- <span class="green">6:30 PM</span>
+- <span class="green">6:45 PM</span>
+- <span class="green">7:00 PM</span>
+- <span class="green">7:15 PM</span>
+- <span class="green">7:30 PM</span>
+- <span class="green">7:45 PM</span>
+- <span class="green">8:00 PM</span>
+- <span class="green">8:15 PM</span>
+- <span class="green">8:30 PM</span>
+- <span class="green">8:45 PM</span>
+- <span class="green">9:00 PM</span>
+- <span class="green">9:15 PM</span>
+- <span class="green">9:30 PM</span>
+- <span class="green">9:45 PM</span>
+- <span class="green">10:00 PM</span>
+	- [ ] Flip a coin if good boi
+- <span class="green">10:15 PM</span>
+- <span class="green">10:30 PM</span>
+- <span class="green">10:45 PM</span>
+- <span class="green">11:00 PM</span>
+- <span class="green">11:15 PM</span>
+- <span class="green">11:30 PM</span>
+- <span class="green">11:45 PM</span>
+- <span class="green">12:00 AM</span>

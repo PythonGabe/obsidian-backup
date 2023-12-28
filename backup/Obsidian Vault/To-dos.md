@@ -1,0 +1,27 @@
+- [ ] Setup google account stuff for Corewell.
+- [ ] setup chromes in office and kitchen
+- [ ] Rename devices to better names
+- [ ] update password for mac on empirico to match the new one
+- [ ] open up current tasks with nfc?
+- [ ] Workday video
+- [ ] Contacts reimbursement
+- [ ] Glasses through insurance
+- [ ] Add task for formatting the data and using the estimates
+- [ ] Bathroom where the old toilet roll used to be needs paint
+- [ ] Office outlets
+- [ ] Teah npr telling the truth find out more about this
+
+## Completed
+- [x] Message online group for board games #dnp ⏳ 2023-10-01 ✅ 2023-10-06
+- [x] laundry room Cat door ⏳ 2023-09-09 ✅ 2023-09-24
+- [x] Ethernet through roof ✅ 2023-09-24
+- [x] Update home automations in google home ✅ 2023-09-24
+- [x] Oral exam Account made #dnp ⏳ 2023-09-27 ✅ 2023-10-06
+- [x] wash Hannibal bed pads #dnp ⏳ 2023-09-27 ✅ 2023-10-12
+- [x] Reshape Hannibal beds so they fit better #dnp ⏳ 2023-09-27 ✅ 2023-10-12
+- [x] Connect usb camera switcher to personal pc #dnp ⏳ 2023-09-27 ✅ 2023-09-30
+- [x] Setup a better sleep pattern ⏫ ⏳ 2023-09-08 ✅ 2023-10-22
+	- [x] No phone in bed - only books ✅ 2023-10-22
+	- [x] Phone kept out of bedroom or at entrance ✅ 2023-10-22
+- [x] Freezer stuff ✅ 2023-10-22
+- [x] Get car detailed ✅ 2023-10-22

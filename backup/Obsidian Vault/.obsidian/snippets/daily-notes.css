@@ -1,0 +1,12 @@
+.daily-note:is(.is-live-preview) div:not(.is-collapsed):has(> h4):not(:has(+ div > div.block-language-tasks * li)):not(:has(.tasks-group-heading)),
+.daily-note:is(.is-live-preview) div.HyperMD-header-4:not(:has(div.is-collapsed)):not(:has(+ div > div.block-language-tasks * li)),
+.daily-note:is(.is-live-preview) div.cm-preview-code-block:has(> div.block-language-tasks):not(:has(li)),
+.daily-note:is(.is-live-preview) div.cm-line:has(span.cm-hmd-frontmatter),
+.daily-note:is(.is-live-preview) div:has(> div.block-language-tasks):not(:has(li)) {
+  display: none;
+}
+.daily-note:is(.is-live-preview) .HyperMD-task-line[data-task=x] {
+  display: none;
+}
+
+/*# sourceMappingURL=daily-notes.css.map */

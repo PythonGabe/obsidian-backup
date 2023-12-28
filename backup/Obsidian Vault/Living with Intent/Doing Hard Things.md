@@ -1,0 +1,3 @@
+- Doing Hard things
+	- I want do to do hard things for various reasons
+	- One of the main reasons being: There are still going to be plenty of hard things I have to do that come to me from outside of my control. If I live a life where I am consistently doing hard things of my own volition the times when I am faced with external hard decisions/choices/challenges I will be able to handle them with more grace and confidence.

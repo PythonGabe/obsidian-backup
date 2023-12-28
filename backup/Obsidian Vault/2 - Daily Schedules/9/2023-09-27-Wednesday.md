@@ -1,0 +1,43 @@
+---
+cssclasses:
+---
+- 5:15
+	- [x] Start cutting boxes :) ✅ 2023-09-27
+	- [x] Move donations into Second room ✅ 2023-09-27
+	- [x] Box cutter in there ✅ 2023-09-27
+- 5:30
+	- [x] Plan next hour ✅ 2023-09-27
+	- [x] Tape the freezer and look at what else needs to be done for prep ✅ 2023-09-27
+- 5:45
+	- [x] Bring in mat ✅ 2023-09-27
+	- [x] Todo's ✅ 2023-09-27
+- 6:00
+	- [ ] Roles - Cluster
+- 6:15
+	- [ ] Roles - Cluster
+- 6:30
+	- [ ] Todo's
+- 6:45
+	- [ ] Roles - Cluster
+- 7:00
+	- [ ] Todo's
+- 7:15
+	- [ ] Roles - Cluster
+- 7:30
+	- [ ] Todo's
+- 7:45
+	- [ ] Roles - Cluster
+- 8:00
+	- [ ] Todo's
+- 8:15
+	- [ ] Roles - Cluster
+- 8:30
+	- [ ] Todo's
+- 8:45
+	- [ ] Roles - Cluster
+- 9:00
+	- [ ] Todo's
+- 9:15
+	- [ ] Roles - Cluster
+- 9:30
+	- [ ] Get in bed

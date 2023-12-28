@@ -1,0 +1,3 @@
+- connect to raspberry pi via Bluetooth headphones
+- stream in audio from audio input to Bluetooth device
+- stream out mic from Bluetooth to audio line

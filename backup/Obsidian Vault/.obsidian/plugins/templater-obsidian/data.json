@@ -1,0 +1,44 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Templates",
+  "templates_pairs": [],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": true,
+  "shell_path": "",
+  "user_scripts_folder": "Scripts",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "2 - Daily Schedules",
+      "template": "Templates/Schedule Template.md"
+    },
+    {
+      "folder": "3 - Goals",
+      "template": "Templates/Weekly Goals Template.md"
+    },
+    {
+      "folder": "4 - Rewards/Daily Logs",
+      "template": "Templates/Rewards/Daily Reward Lottery.md"
+    },
+    {
+      "folder": "Projects",
+      "template": "Templates/Project Template.md"
+    },
+    {
+      "folder": "Things I Want",
+      "template": "Templates/Things I Want Template.md"
+    },
+    {
+      "folder": "4 - Rewards/Weekly Goals",
+      "template": "Templates/Rewards/Weekly Goals Rewards.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

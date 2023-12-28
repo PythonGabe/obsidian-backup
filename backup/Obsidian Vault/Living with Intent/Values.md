@@ -1,0 +1,19 @@
+- What are my values and how do I live them
+	- Joy:
+		- What is this to me:
+		- How do I live this:
+	- Peace
+		- What is this to me:
+		- How do I live this:
+	- Acceptance
+		- What is this to me:
+		- How do I live this:
+	- Love:
+		- What is this to me:
+		- How do I live this:
+	- Respect:
+		- What is this to me:
+		- How do I live this:
+	- Accountability:
+		- What is this to me:
+		- How do I live this:

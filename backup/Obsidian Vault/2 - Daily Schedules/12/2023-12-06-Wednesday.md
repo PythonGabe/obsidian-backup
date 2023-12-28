@@ -1,0 +1,79 @@
+---
+cssclasses: 
+tags:
+  - schedule
+day: 2023-12-06
+---
+
+
+- <span class="green">6:30 AM</span>
+	- [x] Awake ✅ 2023-12-06
+	- [x] Get dressed ✅ 2023-12-06
+	- [x] Pills ✅ 2023-12-06
+	- [x] Contacts ✅ 2023-12-06
+	- [x] Brush Teeth ✅ 2023-12-06
+	- [x] Fill clean water bottle ✅ 2023-12-06
+	- [x] Mask 10 min ✅ 2023-12-06
+- <span class="green">7:00 AM</span>
+	- [x] Sad Lamp Time - 30 minutes ✅ 2023-12-06
+	- [x] Plan morning ✅ 2023-12-06
+- <span class="green">7:30 AM</span>
+	- [x] Log on Emp and CW ✅ 2023-12-06
+	- [x] Fixed roles issue for pip ✅ 2023-12-06
+- <span class="green">9:00 AM</span>
+	- [x] Coffee ✅ 2023-12-06
+	- [x] Fold Laundry ✅ 2023-12-06
+- <span class="green">9:30 AM</span>
+	- [x] Iteration Planning ✅ 2023-12-06
+	- [x] Timebox multiple stacks ✅ 2023-12-06
+	- [x] Spike 3 accounts ✅ 2023-12-06
+	- [x] Evaluate and plan more ✅ 2023-12-06
+- <span class="green">10:30 AM</span>
+	- [x] Work with Zach on cluster pools ✅ 2023-12-06
+- <span class="green">12:00 PM</span>
+	- [x] Make and eat quiche ✅ 2023-12-06
+- <span class="green">12:45 PM</span>
+	- [x] Send message gonna miss standup ✅ 2023-12-06
+- <span class="green">1:00 PM</span>
+	- [x] Multi dev stack meeting ✅ 2023-12-06
+- <span class="green">2:00 PM</span>
+	- ??
+- <span class="green">2:30 PM</span>
+	- [x] Ice bath time ✅ 2023-12-06
+- <span class="green">3:00 PM</span>
+	- [x] Pranav Meeting ✅ 2023-12-06
+- <span class="green">3:45 PM</span>
+	- [x] Swap Laundry ✅ 2023-12-06
+- <span class="green">4:00 PM</span>
+	- [x] Gradient Trial meeting ✅ 2023-12-06
+- <span class="green">5:00 PM</span>
+	- [x] Bring Laptop in backpack. Leave in car... ✅ 2023-12-06
+	- [x] Prep food. Leave in car... ✅ 2023-12-06
+- <span class="green">5:15 PM</span>
+	- [x] Leave for Kates ✅ 2023-12-06
+- <span class="green">5:30 PM</span>
+	- [x] Kate's ✅ 2023-12-06
+- <span class="green">6:15 PM</span>
+	- [x] Leave for wrestling meet if I haven't ✅ 2023-12-06
+- <span class="green">6:30 PM</span>
+	- [x] Attend wrestling meet ✅ 2023-12-06
+- <span class="green">8:00 PM</span>
+	- [x] Take out trash/recycling ✅ 2023-12-06
+- <span class="green">8:15 PM</span>
+	- [x] Movie ✅ 2023-12-06
+	- [x] Couch ✅ 2023-12-06
+- <span class="green">10:00 PM</span>
+	- [ ] Plan tomorrow
+	- [ ] Bedroom Cords
+	- [x] Flip or roll if GOOD BOI ✅ 2023-12-06
+	- [[Reward Tracker and Rules]]
+	- [[Reward Lottery Qualification]]
+- <span class="green">10:15 PM</span>
+	- 
+- <span class="green">10:30 PM</span>
+- <span class="green">10:45 PM</span>
+- <span class="green">11:00 PM</span>
+- <span class="green">11:15 PM</span>
+- <span class="green">11:30 PM</span>
+- <span class="green">11:45 PM</span>
+- <span class="green">12:00 AM</span>

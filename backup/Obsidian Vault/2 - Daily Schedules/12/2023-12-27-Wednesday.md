@@ -1,0 +1,73 @@
+---
+cssclasses: 
+tags:
+  - schedule
+day: 2023-12-27
+---
+^properties
+- <span class="green">6:30 AM</span>
+	- [x] Morning Routine in Keep ✅ 2023-12-27
+	- [x] Adjust day plan ✅ 2023-12-27
+	- [x] Fix Home Assistant ✅ 2023-12-27
+- <span class="green">7:30 AM</span>
+	- [x] Cat water refill ✅ 2023-12-27
+	- [x] Tool Box swap ✅ 2023-12-27
+	- [x] Get paint stuff ready ✅ 2023-12-27
+- <span class="green">8:00 AM</span>
+	- [x] Put both laptops back in the spot ✅ 2023-12-27
+	- [x] Log on CW ✅ 2023-12-27
+	- [x] Get all goals that are in workday into one note for planning this week ✅ 2023-12-27
+	- [x] Start work tasks ✅ 2023-12-27
+	- [x] Make Coffee ✅ 2023-12-27
+	- [x] Ice Bath ✅ 2023-12-27
+- <span class="green">9:30 AM</span>
+	- [x] 15/15 or 30/30 rest of day. ✅ 2023-12-27
+- <span class="green">9:45 AM</span>
+	- [ ] Work
+- <span class="green">10:00 AM</span>
+	- [x] Setup up paint stuff or something ✅ 2023-12-27
+- <span class="green">11:00 AM</span>
+- <span class="green">12:00 PM</span>
+	- [-] Take out trash/recycling
+	- [x] 15/15 or 30/30 rest of day. ✅ 2023-12-27
+- <span class="green">1:00 PM</span>
+	- [x] Whatever ✅ 2023-12-27
+	- [x] Planning ✅ 2023-12-27
+- <span class="green">1:15 PM</span>
+	- [x] Work ✅ 2023-12-27
+- <span class="green">1:30 PM</span>
+	- [-] Make Smoothie
+	- [x] Olive oil ✅ 2023-12-27
+	- [x] Go outside for at least 5 minutes... every day!!! Take Hannibal outside if he wants to come ✅ 2023-12-27
+- <span class="green">2:00 PM</span>
+	- [x] Work ✅ 2023-12-27
+- <span class="green">2:15 PM</span>
+	- [x] Painting ✅ 2023-12-27
+- <span class="green">2:45 PM</span>
+	- [x] Work ✅ 2023-12-27
+- <span class="green">3:00 PM</span>
+	- [x] ???? ✅ 2023-12-27
+- <span class="green">3:45 PM</span>
+	- [x] Work ✅ 2023-12-27
+- <span class="green">4:15 PM</span>
+	- [x] Whatever ✅ 2023-12-27
+- <span class="green">4:30 PM</span>
+	- [x] Ice-bath ✅ 2023-12-27
+- <span class="green">6:30 PM</span>
+	- [x] Ice Bath ✅ 2023-12-27
+	- [x] Run Ice Bath Clean Cycle ✅ 2023-12-27
+	- [-] Painting
+	- [x] Chill for a bit or whatever ✅ 2023-12-28
+- <span class="green">10:00 PM</span>
+	- [ ] Flip or roll if GOOD BOI
+	- [[Reward Tracker and Rules]]
+	- [[Reward Lottery Qualification]]
+	- [-] Goals Check
+	- [-] Weekly Goals Check
+	- [ ] Tomorrow Daily Goals Set
+	- [-] Plan tomorrow
+	- [x] Bedtime Pill ✅ 2023-12-28
+	- [-] Wash Face and put on cream
+	- [-] Prep Clothes Tomorrow
+- <span class="green">10:45 PM</span>
+	- [ ] Get in bed if not

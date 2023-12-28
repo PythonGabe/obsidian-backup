@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "daily-notes",
+    "global",
+    "tasks"
+  ],
+  "cssTheme": "Things",
+  "baseFontSize": 17
+}

@@ -1,0 +1,37 @@
+---
+cssclasses:
+---
+
+- 8:00
+	- [x] Check messages both jobs ✅ 2023-09-20
+	- [x] Plan morning ✅ 2023-09-20
+- 5:10
+	- [x] Plan rest of evening ✅ 2023-09-20
+	- [x] Try another release build ✅ 2023-09-20
+- 5:20
+	- [x] Clean and Organize Closet ✅ 2023-09-20
+- 5:45
+	- [x] Check release build ✅ 2023-09-20
+	- [x] Try Deploy if possible ✅ 2023-09-20
+	- [x] Work on closet/cleaning ✅ 2023-09-20
+- 6:00
+	- [x] Shower ✅ 2023-09-20
+	- [x] Dressed ✅ 2023-09-20
+	- [x] Backpack with spectrum laptop ✅ 2023-09-20
+	- [x] Freezer Meal ✅ 2023-09-20
+	- [x] Leave for Kates ✅ 2023-09-20
+- Kates
+	- [ ] Chill
+	- [ ] Work on spectrum stuff if we just watching tv
+- 8:45 or earlier leave for home
+- 9:00
+	- Take pills
+	- nasal spray
+	- Plan for tomorrow
+	- Work on todos or work
+- 10:00
+	- Brush teeth
+	- go in bed without phone
+	- sip of water
+	- cpap on
+	- read till sleep

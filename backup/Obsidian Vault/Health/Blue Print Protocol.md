@@ -1,0 +1,5 @@
+- [https://protocol.bryanjohnson.co/](https://protocol.bryanjohnson.co/)
+- Things I have taken from this so far
+	- Olive oil
+	- making sleep/bed more just about sleep
+	- 

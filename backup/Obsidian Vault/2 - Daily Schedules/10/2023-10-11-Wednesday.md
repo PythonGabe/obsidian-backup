@@ -1,0 +1,82 @@
+---
+cssclasses: 
+tags:
+  - schedule
+day: 2023-10-11
+---
+
+- <span class="green">6:30 AM</span>
+	- [x] Awake ✅ 2023-10-12
+	- [x] Get dressed ✅ 2023-10-12
+	- [x] Pills ✅ 2023-10-12
+	- [x] Contacts ✅ 2023-10-12
+	- [x] Brush Teeth ✅ 2023-10-12
+	- [x] Fill clean water bottle ✅ 2023-10-12
+	- [x] Tidy up office and kitchen ✅ 2023-10-12
+- <span class="green">7:00 AM</span>
+	- [ ] Logon to laptops
+- <span class="green">7:30 AM</span>
+	- [x] Start work tasks ✅ 2023-10-12
+- <span class="green">7:45 AM</span>
+	- [x] Get outside for a second ✅ 2023-10-12
+	- vegged on the couch 
+- <span class="green">8:30 AM</span>
+	- [x] made coffee ✅ 2023-10-12
+	- [x] corewell ✅ 2023-10-12
+- <span class="green">10:00 AM</span>
+	- [x] Swap laundry ✅ 2023-10-12
+	- [x] Chill ✅ 2023-10-12
+- <span class="green">10:30 AM</span>
+	- Texting
+	- A little house keeping
+	- Bought new note book
+- <span class="green">10:45 AM</span>
+	- [x] Read Tech Book ✅ 2023-10-12
+	- called by lehman and had discussion for a bit
+- <span class="green">11:15 AM</span>
+	- [x] EMP ✅ 2023-10-12
+- <span class="green">11:45 AM</span>
+	- Lunch time
+- <span class="green">12:30 PM</span>
+	- [x] Corewell ✅ 2023-10-12
+- <span class="green">1:45 PM</span>
+	- Chores
+- <span class="green">2:30 PM</span>
+- <span class="green">2:45 PM</span>
+- <span class="green">3:00 PM</span>
+- <span class="green">3:15 PM</span>
+- <span class="green">3:30 PM</span>
+- <span class="green">3:45 PM</span>
+- <span class="green">4:00 PM</span>
+- <span class="green">4:15 PM</span>
+- <span class="green">4:30 PM</span>
+- <span class="green">4:45 PM</span>
+- <span class="green">5:00 PM</span>
+- <span class="green">5:15 PM</span>
+- <span class="green">5:30 PM</span>
+- <span class="green">5:45 PM</span>
+- <span class="green">6:00 PM</span>
+- <span class="green">6:15 PM</span>
+- <span class="green">6:30 PM</span>
+- <span class="green">6:45 PM</span>
+- <span class="green">7:00 PM</span>
+- <span class="green">7:15 PM</span>
+- <span class="green">7:30 PM</span>
+- <span class="green">7:45 PM</span>
+- <span class="green">8:00 PM</span>
+- <span class="green">8:15 PM</span>
+- <span class="green">8:30 PM</span>
+- <span class="green">8:45 PM</span>
+- <span class="green">9:00 PM</span>
+- <span class="green">9:15 PM</span>
+- <span class="green">9:30 PM</span>
+- <span class="green">9:45 PM</span>
+- <span class="green">10:00 PM</span>
+- <span class="green">10:15 PM</span>
+- <span class="green">10:30 PM</span>
+- <span class="green">10:45 PM</span>
+- <span class="green">11:00 PM</span>
+- <span class="green">11:15 PM</span>
+- <span class="green">11:30 PM</span>
+- <span class="green">11:45 PM</span>
+- <span class="green">12:00 AM</span>
