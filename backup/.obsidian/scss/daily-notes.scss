@@ -1,0 +1,15 @@
+.daily-note:is(.is-live-preview) {
+  // Common style for all selectors
+  div:not(.is-collapsed):has(> h4):not(:has(+ div > div.block-language-tasks * li)):not(:has(.tasks-group-heading)),
+  div.HyperMD-header-4:not(:has(div.is-collapsed)):not(:has(+ div > div.block-language-tasks * li)),
+  div.cm-preview-code-block:has(> div.block-language-tasks):not(:has(li)),
+  div.cm-line:has(span.cm-hmd-frontmatter),
+  div:has(> div.block-language-tasks):not(:has(li)) {
+    display: none;
+  }
+
+  // Specific rule for .HyperMD-task-line with data-task="x"
+  .HyperMD-task-line[data-task="x"] {
+    display: none;
+  }
+}
